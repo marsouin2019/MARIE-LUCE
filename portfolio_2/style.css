@@ -1,0 +1,39 @@
+.progress{
+    margin-bottom: 20px ;
+    width: 1150px ;
+    height:100px ;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.img-fluid{
+    margin-bottom: 40px
+}
+body{
+    background-image:url(https://www.wallpaperup.com/uploads/wallpapers/2015/05/04/678622/78c94d9914c07e559d025b35661df579.jpg);
+}
+
+h1{
+color: snow ;
+}
+
+p{
+    color: snow ;
+}
+
+h3{
+    color: snow ;
+}
+.bac{
+   float: right ;
+}
+.bacc{
+    font-size: 30px;
+    color: snow;
+    font-weight: bold
+}
+
+.web{
+    font-size: 25px ;
+    font-weight: 600
+}
