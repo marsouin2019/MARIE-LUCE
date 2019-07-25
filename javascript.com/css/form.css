@@ -1,0 +1,48 @@
+
+
+.img1{
+    width: 200px;
+}
+
+.img2{
+    width: 300px;
+}
+
+h3{
+color:  #f8d601;
+}
+
+h1{
+    color:  #f8d601    ;
+   
+}
+
+h4{
+    
+    color: grey;
+}
+
+ul{
+
+    list-style: none;
+}
+
+h5{ 
+    color:#f8d601 ;
+}
+
+.table .thead-dark th{
+    background-color: #1f78bf;
+}
+
+#formTB > tbody:nth-child(2) > tr:nth-child(2){
+    background-color:  #eeeeb9 ;
+}
+
+#formTB > tbody:nth-child(2) > tr:nth-child(4){
+    background-color:  #eeeeb9 ;
+}
+
+#formTB > tbody:nth-child(2) > tr:nth-child(8){
+    background-color:  #eeeeb9 ;
+}
