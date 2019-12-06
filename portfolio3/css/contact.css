@@ -1,0 +1,11 @@
+body{
+    background-image: linear-gradient(to right top, #ffffff, #dfdfe0, #bfc1c1, #a0a3a2, #858683);
+  }
+
+  .logo{
+    height: 50px;
+    width: 50px;
+  }
+  ul{
+      list-style: none;
+  }

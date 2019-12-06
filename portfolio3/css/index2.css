@@ -1,0 +1,18 @@
+body{
+  background-image:url(/html/portfolio3/img/abstract-1569245985080-8196.jpg);
+}
+.logo{
+  height: 50px;
+  width: 50px;
+}
+
+.jumbotron{
+  background-image: url(/html/portfolio3/img/fond-concept-technologie-treillis-metallique-espace-texte_1017-14622.jpg);
+  background-repeat:no-repeat;
+  width: 900px;
+  padding: top 50px;
+  padding: bottom 20px;;
+  padding: right px;
+  padding: left 500px;
+
+}

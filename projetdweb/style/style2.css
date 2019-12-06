@@ -1,4 +1,7 @@
-
+body{
+   background-image: radial-gradient(circle, #ceeeff, #b9e6fc, #a3defa, #8bd6f7, #6fcef4, #5fcff5, #4cd1f5, #33d2f4, #34ddf5, #3de7f5, #4cf1f4, #5ffbf1);
+    
+}
 
 h1{
     
@@ -18,3 +21,61 @@ img{
     width: 850px;
     height: 100px;
 }
+
+tr:nth-child(even) {
+    background-color: #ffff00;
+    opacity: 0.88;
+  }
+
+  .table > thead:nth-child(1){
+    background-color: #ffff00;
+  }
+
+  img{
+    height: 150px;
+    width: 150px;
+    
+  }
+  
+  
+  
+  
+  img{
+    height: 150px;
+    width: 150px;
+    display: inline;
+    margin-left: 25px;
+  }
+  
+
+
+  
+  /* add hover behaviour */
+  .nav_cat_cg a:hover {
+    background-color: #999;
+  }
+  
+  
+  
+  
+  /*
+  we now overwrite the background-color for .submenu links only.
+  CSS reads down the page, so code at the bottom will overwrite the code at the top.
+  */
+  
+  
+  
+  /* hover behaviour for links inside .submenu */
+  .submenu_cg a:hover {
+  background-color: #999;
+  }
+
+  header{
+    width: 100px;
+    height: 100px;
+
+  }
+
+  
+
+  

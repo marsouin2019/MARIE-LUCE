@@ -94,7 +94,7 @@ include("include/head.php")
   <div class="form-group">
     <label for="">Password</label>
     <input type="password" class="form-control" id="frmPass" placeholder="Password(*)" name="frmPass"required>
-    <small id="passwordHelp" class="form-text text-muted">Carractère de 6 à 12.Ce champs est obligatoire.</small>
+    <small id="passwordHelp" class="form-text text-muted">Caractère de 6 à 12.Ce champs est obligatoire.</small>
   </div>
   <div class="form-group">
     <label for="">Confirmer mot de passe</label>

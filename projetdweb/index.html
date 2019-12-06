@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.8/css/all.css">
     <link rel="stylesheet" href="/html/projetdweb/style/style.css">
-    <title>Hello, world!</title>
+    <title>S'identifier</title>
   </head>
   <body>
     
@@ -51,16 +51,19 @@
       <div class="input-group-prepend">
           <span class="input-group-text"> <i class="fa fa-user"></i> </span>
        </div>
-      <input name="" class="form-control" placeholder="login" type="email">
+      <input name="" class="form-control is-valid"    placeholder="login" type="email" required>
+     
     </div> <!-- input-group.// -->
+    <small id="prenomHelp" class="form-text text-muted"><strong>Ce champs est obligatoire.</strong></small>
     </div> <!-- form-group// -->
     <div class="form-group">
     <div class="input-group">
       <div class="input-group-prepend">
           <span class="input-group-text"> <i class="fa fa-lock"></i> </span>
        </div>
-        <input class="form-control" placeholder="******" type="password">
+      <input class="form-control is-valid" placeholder="******" type="password" required>
     </div> <!-- input-group.// -->
+    <small id="prenomHelp" class="form-text text-muted"><strong>Ce champs est obligatoire.</strong></small>
     </div> 
     <!-- form-group// -->
     <div class="form-group">
@@ -69,6 +72,7 @@
     </div> 
     <!-- form-group// -->
     <p class="text-center"><a href="" class="btn"><strong>Mot de passe oublié?</strong></a></p>
+   
     </form>
   </article>
   </div> <!-- card.// -->
